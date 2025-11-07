@@ -54,3 +54,14 @@ NaughtyDamagePack D:\txt.zip E:\docs.rar F:\video.7z
 - 破坏模式算法是**作者自实现**的，**能拦99.99%的破解者**，如需压缩包安全性请使用压缩包自带的AES加密
 - **破坏模式无任何标记**，因此不会验证密钥是否正确，需要自己备份密钥文件
 - 为了防止忘记压缩包是真损坏还是本软件破坏的，**请常用本软件或者自己做好记录**
+
+## 相关项目
+
+[想曰 - 文本加密让你想曰就曰](https://github.com/fzxx/XiangYue)
+
+[文图变 - 文件藏到图片](https://github.com/fzxx/FileImgSwap)
+
+## 下载地址
+
+https://github.com/fzxx/NaughtyDamagePack/releases
+
