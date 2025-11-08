@@ -54,7 +54,7 @@ NaughtyDamagePack D:\txt.zip E:\docs.rar F:\video.7z
 - 支持的最小文件是512字节，过小的文件无法处理；分卷压缩包只会处理当前指定的分卷文件
 - 切换加密标记模式，理论上是可以跳过识别标记强制解压的
 - 破坏模式算法是**作者自实现**的，**能拦99.99%的破解者**，如需压缩包安全性请使用压缩包自带的AES加密
-- **破坏模式无任何标记**，因此不会验证密钥是否正确，需要自己备份密钥文件
+- **破坏模式无任何标记**（防止识别），因此不会验证密钥是否正确，需要自己备份密钥文件
 - 为了防止忘记压缩包是真损坏还是本软件破坏的，**请常用本软件或者自己做好记录**
 
 ## 相关项目
@@ -65,4 +65,4 @@ NaughtyDamagePack D:\txt.zip E:\docs.rar F:\video.7z
 
 ## 下载地址
 
-https://github.com/fzxx/NaughtyDamagePack/releases
+[https://github.com/fzxx/NaughtyDamagePack/releases](https://github.com/fzxx/NaughtyDamagePack/releases)
