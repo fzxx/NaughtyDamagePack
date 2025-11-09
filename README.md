@@ -1,6 +1,6 @@
 # NaughtyDamagePack
 
-**[NaughtyDamagePack 坏坏包](https://github.com/fzxx/NaughtyDamagePack)**是一个让压缩包看起来像损坏的工具（可还原），支持**极速**切换加密标记和数据破坏模式，适用于多种压缩格式。
+**[NaughtyDamagePack 坏坏包](https://github.com/fzxx/NaughtyDamagePack)**是一个让压缩包看起来像损坏的工具（**可还原**），支持**极速**切换加密标记和数据破坏模式，适用于多种压缩格式。
 
 ![](NaughtyDamagePack.gif)
 
