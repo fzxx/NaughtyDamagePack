@@ -9,6 +9,7 @@
 - 支持切换ZIP/RAR4压缩包的加密标记状态
 - 对RAR5/7z/分卷压缩包采用数据破坏模式（再次处理可还原）
 - 支持密钥文件增强破坏效果
+- 比二次打包等方式更快更防在线查看
 
 ## 支持格式
 
@@ -39,6 +40,7 @@ NaughtyDamagePack D:\txt.zip E:\docs.rar F:\video.7z
  - **可选**在程序同目录下**创建与程序同名**的`.hhbp.key`文件
    - 例如程序名为`NaughtyDamagePack.exe`，则密钥文件为`NaughtyDamagePack.hhbp.key`
  - **仅在破坏模式生效**，密钥文件内容任意，用于增强破坏效果，可当作快速的加密（**注重破坏而不是加密**）
+ - 只支持密钥文件是为了增强随机性和爆破难度
 
 ## 处理方式
 
@@ -62,6 +64,8 @@ NaughtyDamagePack D:\txt.zip E:\docs.rar F:\video.7z
 [想曰 - 文本加密让你想曰就曰](https://github.com/fzxx/XiangYue)
 
 [文图变 - 文件藏到图片](https://github.com/fzxx/FileImgSwap)
+
+[闪电擦除 - 让文件无法恢复](https://github.com/fzxx/FlashErase)
 
 ## 下载地址
 
